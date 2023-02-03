@@ -1,0 +1,48 @@
+
+.active{
+  color: brown;
+}
+.table{
+width: 90%;
+text-align: center;
+margin-left: 50px;
+}
+.btn{
+ background-color: aqua;
+ border-radius: 20px;
+ width: 125px;
+ height: 40px;
+}
+.btn-div{
+  display: flex;
+  justify-content: end;
+  margin-right: 50px;
+}
+body{
+  background-color: darkgray;
+}
+.td{
+  background-color:rgb(186, 109, 109);
+}
+#form-head{
+  display: flex;
+ 
+  justify-content: center;
+}
+.form-box{
+  width: 200px;
+  height: 30px;
+  border-radius: 15px;
+}
+label{
+  font-weight: 500;
+  font-size: large;
+}
+.form{border: 3px solid black;
+  height: 315px;
+ 
+  width: 300px;
+ background-color: rgb(108, 89, 125);
+  text-align: center;
+  border-radius: 2px 38px;
+}
